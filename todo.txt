@@ -10,5 +10,25 @@
 [+] Delete a project
 
  user_list{
-    
+    userId,
+    User Name,
+    designation,
+    location,
+    profileImg,
+    Projectheading,
+    skills[Obj],
+    availability[Obj]
+}
+
+projectExplore[]{
+    userId,
+    projectName,
+    screenshots[YTURL,screenshots],
+    imgAlt==Username,
+    techStack,
+    count:{
+        like,
+        comment,
+        view
+    }
 }
