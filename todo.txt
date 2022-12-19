@@ -1,0 +1,14 @@
+[+] Register a user
+[+] Login a user
+[+] user profile
+[+] Refresh the token
+[+] Logout the user
+[+] Add new project
+[+] Update a project
+[+] Get all project
+[+] Get single project
+[+] Delete a project
+
+ user_list{
+    
+}
